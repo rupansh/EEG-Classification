@@ -1,7 +1,7 @@
 import numpy as np
 import torch.optim as optim
 import torch.nn as nn
-import tqdm
+from tqdm import tqdm
 
 from utils.auto_device import auto_device
 
