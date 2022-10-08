@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+sklearn
+sktime
+
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
