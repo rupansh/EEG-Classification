@@ -1,8 +1,9 @@
 numpy
 pandas
 matplotlib
-sklearn
+scikit-learn
 sktime
+tqdm
 
 --extra-index-url https://download.pytorch.org/whl/cu116
 torch
